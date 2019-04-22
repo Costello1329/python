@@ -8,6 +8,6 @@
   <li>Running the generate module, specify the path to the directory in which the model file is stored. Specify (optional) the value of the argument -seed, from which you want to start the generated proposal. Specify the path to the file to which you want to display the response (optional).</li>
 </ul>
 
-<i>Each of the modules also has a -help argument, when you call it you can get more help.</i>
+<p>Each of the modules also has a -help argument, when you call it you can get more help.</p>
 
 <p><i>Konstantin Leladze, 2018.</i></p>
